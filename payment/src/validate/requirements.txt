@@ -1,4 +1,4 @@
 aws-lambda-powertools==1.16.1
 requests
-/home/delpipi/workspace-vscode/aws-serverless-ecommerce-platform/shared/src/ecom/
+shared/src/ecom/
 

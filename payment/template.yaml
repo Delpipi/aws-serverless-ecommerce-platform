@@ -270,7 +270,7 @@ Resources:
     Properties:
       # The path starts with '../..' as this will be evaluated from the
       # payment/build folder, not the payment folder.
-      TemplateURL: /home/delpipi/workspace-vscode/aws-serverless-ecommerce-platform/shared/templates/dlq.yaml
+      TemplateURL: ../../shared/templates/dlq.yaml
 
  #############
   # DASHBOARD #
